@@ -36,10 +36,12 @@
 
 
 ## 运行视频
-纯Python版本
+##  纯Python版本
 https://www.bilibili.com/video/BV1hneyzjE6o
 ## 大数据Hadoop+Spark+Hive一起杂交装逼版本
+## 视频1
 https://www.bilibili.com/video/BV1bseyzCEhQ
+# 视频2
 https://www.bilibili.com/video/BV18Weyz5E7W
 
 ## 运行截图
@@ -55,6 +57,7 @@ https://www.bilibili.com/video/BV18Weyz5E7W
 ![](10.png)
 ![](11.png)
 ![](12.png)
+
 
 
 
